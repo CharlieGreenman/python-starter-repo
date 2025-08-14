@@ -35,3 +35,7 @@ ENV/
 *.png
 *.csv
 !data/sample.csv
+
+
+# DS_Store
+.DS_Store
